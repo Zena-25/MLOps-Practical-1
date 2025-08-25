@@ -1,3 +1,3 @@
-# MLOps-Practical-1
-GitHub setup
-Zena
+# MLOps Practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Zena van Summeren
